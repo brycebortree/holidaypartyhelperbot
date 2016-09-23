@@ -36,6 +36,12 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+# Environment Variables 
+node/config/*.json
+
+# Editor
+.idea
+
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
